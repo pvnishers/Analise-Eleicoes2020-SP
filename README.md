@@ -1,7 +1,9 @@
 # Análise de Dados das Eleições Municipais com PySpark
+
 Este repositório contém um notebook Jupyter com uma análise de dados das eleições municipais de 2020 utilizando PySpark.
 
 **Etapas do Desenvolvimento**
+
 As principais etapas do desenvolvimento foram:
 1. Configuração do ambiente Spark local no notebook
 2. Carregamento dos dados de resultados das eleições e do perfil do eleitorado em dataframes Spark
@@ -13,6 +15,7 @@ As principais etapas do desenvolvimento foram:
 5. Geração de visualizações e insights
   
 **Replicação**
+
 Para replicar a análise, são necessários os seguintes passos:
 1. Instalar as bibliotecas necessárias (PySpark, findspark, pandas, etc)
 2. Baixar os dados de resultados das eleições e perfil do eleitorado
