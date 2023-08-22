@@ -7,9 +7,9 @@ As principais etapas do desenvolvimento foram:
 2. Carregamento dos dados de resultados das eleições e do perfil do eleitorado em dataframes Spark
 3. Pré-processamento e seleção das colunas de interesse nos dataframes
 4. Análises:
-* Encontrar o candidato a prefeito mais votado por município
-* Buscar informações de perfil predominante do eleitorado e percentual de votos por zona eleitoral
-* Identificar as zonas com maior número de abstenções/votos brancos e nulos
+  * Encontrar o candidato a prefeito mais votado por município
+  * Buscar informações de perfil predominante do eleitorado e percentual de votos por zona eleitoral
+  * Identificar as zonas com maior número de abstenções/votos brancos e nulos
 5. Geração de visualizações e insights
   
 **Replicação**
