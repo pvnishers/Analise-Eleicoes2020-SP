@@ -24,5 +24,7 @@ Para replicar a análise, são necessários os seguintes passos:
 5. Executar as células de pré-processamento e análise
    
 Os dados originais utilizados neste notebook estão disponíveis em:
+
 Resultados: https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais
-Perfil do Eleitorado: https://www.tse.jus.br/eleitor/estatisticas-de-eleitorado/perfil-do-eleitorado
+
+Perfil do Eleitorado: https://www.tse.jus.br/eleicoes/estatisticas/estatisticas-de-eleitorado/eleitorado
