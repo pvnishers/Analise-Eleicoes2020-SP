@@ -11,6 +11,7 @@ As principais etapas do desenvolvimento foram:
 4. Análises:
    * Encontrar o candidato a prefeito mais votado por município
    * Buscar informações de perfil predominante do eleitorado e percentual de votos por zona eleitoral de um determinado candidato
+   * Buscar zonas com maior quantidades de votos brancos, nulos e abstenções, indicando lugares com maior possibilidade de conquistar novos votos para as próximas eleições
 5. Geração de visualizações e insights
   
 **Replicação**
